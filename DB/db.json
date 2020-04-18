@@ -1,0 +1,112 @@
+[
+    {
+      "_id": "5e09e77768698614f8a4a815",
+      "age": 26,
+      "name": "Letha Schneider",
+      "email": "lethaschneider@geekular.com",
+      "phone": "+1 (800) 433-3385",
+      "address": "620 Quay Street, Salunga, Alaska, 3519",
+      "about": "Amet duis id qui culpa. Quis eiusmod exercitation Lorem consectetur non qui sit enim in sint. Mollit incididunt magna duis proident exercitation id non duis pariatur mollit. Excepteur ad aliquip pariatur ex occaecat commodo eu sunt adipisicing cupidatat.\r\n",
+      "platforms": "both",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e777e5436acaae135dfb",
+      "age": 21,
+      "name": "Vance Browning",
+      "email": "vancebrowning@geekular.com",
+      "phone": "+1 (925) 418-3196",
+      "address": "992 Furman Avenue, Golconda, Minnesota, 6456",
+      "about": "Occaecat pariatur Lorem eu est ipsum. Minim amet do veniam velit laboris veniam. Ea ea adipisicing anim excepteur dolor amet laboris. Laboris cillum officia incididunt et culpa esse aliquip id. Aliquip commodo voluptate exercitation elit.\r\n",
+      "platforms": "apk",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e777c6928a04eeb5a1b2",
+      "age": 21,
+      "name": "Garrison Craig",
+      "email": "garrisoncraig@geekular.com",
+      "phone": "+1 (934) 520-3967",
+      "address": "733 Johnson Avenue, Brady, Arizona, 8329",
+      "about": "Eiusmod commodo velit laboris reprehenderit irure anim Lorem ex. Mollit anim fugiat occaecat cillum officia laborum et adipisicing. Ad sint proident irure nostrud voluptate anim amet duis consectetur voluptate culpa in nulla ipsum. Sit sint laborum nostrud non qui ullamco eiusmod veniam. Excepteur Lorem deserunt pariatur qui aliqua adipisicing officia. Dolor cupidatat culpa dolore eu mollit adipisicing et eiusmod consectetur eu.\r\n",
+      "platforms": "ipa",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e7774f27827548aa40d7",
+      "age": 37,
+      "name": "May Winters",
+      "email": "maywinters@geekular.com",
+      "phone": "+1 (881) 524-3278",
+      "address": "897 Miller Avenue, Waikele, Georgia, 9100",
+      "about": "Elit aliqua cupidatat dolore veniam nisi nulla occaecat ullamco irure occaecat et ullamco. Laborum esse duis reprehenderit culpa qui quis. Ullamco cupidatat sint est aliqua voluptate Lorem est.\r\n",
+      "platforms": "apk",
+      "reactAllowed": true
+    },
+    {
+      "_id": "5e09e777a79a9dfddcca84c4",
+      "age": 39,
+      "name": "Dolores Obrien",
+      "email": "doloresobrien@geekular.com",
+      "phone": "+1 (828) 555-3080",
+      "address": "190 Arlington Place, Tolu, Michigan, 4525",
+      "about": "Ea sint id et ut officia. Id ullamco aliquip sunt non fugiat anim magna voluptate qui nisi officia. Anim laboris quis sunt Lorem esse qui est tempor ipsum dolor do nisi. Commodo ullamco voluptate sunt mollit ullamco. Lorem exercitation velit cupidatat pariatur mollit. Consectetur est tempor eu laboris exercitation consectetur ipsum commodo.\r\n",
+      "platforms": "both",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e7771f7bc18b29c6f044",
+      "age": 39,
+      "name": "Rutledge Huff",
+      "email": "rutledgehuff@geekular.com",
+      "phone": "+1 (813) 521-3531",
+      "address": "722 Greene Avenue, Fredericktown, Louisiana, 4710",
+      "about": "Non cillum reprehenderit non elit. Sint ut do occaecat mollit exercitation veniam ullamco minim aliquip. Duis tempor do qui cupidatat. Adipisicing aute aute dolore excepteur eu exercitation occaecat. Eu nisi fugiat laboris amet ea occaecat. Lorem proident minim magna fugiat ut.\r\n",
+      "platforms": "ipa",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e777c72ba51dd6d0ac89",
+      "age": 33,
+      "name": "Cain Mullen",
+      "email": "cainmullen@geekular.com",
+      "phone": "+1 (943) 462-3559",
+      "address": "465 Shale Street, Craig, Tennessee, 4494",
+      "about": "Proident nisi laboris occaecat ut ea proident Lorem nisi pariatur aliquip. Duis id minim fugiat Lorem duis laborum commodo. Sunt ullamco proident laborum non culpa consequat exercitation cupidatat exercitation fugiat dolore. Lorem non do dolore sint dolore sit proident dolor do duis. Proident ex dolor ut ut est ut est anim minim enim reprehenderit sint. Duis nisi laborum incididunt occaecat irure consequat deserunt amet Lorem. Non laborum commodo irure sunt culpa amet sint non aute.\r\n",
+      "platforms": "ipa",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e77784ea58a430a4f2f9",
+      "age": 37,
+      "name": "Casey Bolton",
+      "email": "caseybolton@geekular.com",
+      "phone": "+1 (807) 528-2882",
+      "address": "398 Kossuth Place, Soudan, New Hampshire, 3550",
+      "about": "Sint dolore veniam proident id aliqua et est. Minim consequat adipisicing Lorem est veniam eu ex mollit. Mollit cillum id veniam voluptate proident ad nisi mollit ea Lorem laborum ullamco eu nisi. Nulla esse amet consectetur duis reprehenderit deserunt nostrud culpa.\r\n",
+      "platforms": "ipa",
+      "reactAllowed": true
+    },
+    {
+      "_id": "5e09e77789b264e61b423ba2",
+      "age": 37,
+      "name": "Agnes Maddox",
+      "email": "agnesmaddox@geekular.com",
+      "phone": "+1 (820) 496-3312",
+      "address": "117 Louisa Street, Tampico, New York, 1227",
+      "about": "Velit velit enim officia magna et mollit ea fugiat ad. Consequat dolor et ex incididunt voluptate minim fugiat laboris. Excepteur occaecat eu culpa do esse. Amet excepteur pariatur pariatur incididunt. Et ea magna fugiat eu. Aliqua anim mollit aute tempor laborum occaecat nulla adipisicing. Exercitation esse culpa est et exercitation.\r\n",
+      "platforms": "ipa",
+      "reactAllowed": false
+    },
+    {
+      "_id": "5e09e777394712b1be5c4eff",
+      "age": 20,
+      "name": "Roach Hyde",
+      "email": "roachhyde@geekular.com",
+      "phone": "+1 (899) 589-3386",
+      "address": "346 Micieli Place, Sharon, Iowa, 3655",
+      "about": "Dolor non aute eu ut minim. Occaecat quis sit proident laboris commodo nisi elit sunt qui excepteur labore non cillum. Ullamco pariatur quis magna sunt id ipsum duis adipisicing laborum. Pariatur aliqua eu exercitation ipsum laboris aute irure aliquip et consequat qui esse laborum sunt. Exercitation consequat fugiat sit anim pariatur commodo adipisicing elit deserunt quis culpa. Non cillum fugiat qui duis laborum amet sit labore occaecat. Commodo eu deserunt culpa occaecat minim culpa laboris incididunt sint eiusmod cillum velit consequat.\r\n",
+      "platforms": "apk",
+      "reactAllowed": true
+    }
+  ]
